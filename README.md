@@ -4,14 +4,19 @@ A collection of In-Memory-Computing papers targeting general-purpose computing a
 
 ## Table of Contents
 
-- [Survey Papers](#Survey)  
-- [Deep Learning Acceleration](#Deep-Learning)  
-	- [Ternary Neural Networks](#Ternary)  
-	- [Binary Weight Networks](#Binary)  
-	- [Integer Based Networks](#Integer)  
-	- [Others](#Others)  
+- [Survey Papers](#survey-papers)  
+- [Deep Learning Acceleration](#deep-Learning-acceleration)  
+	- [Ternary Neural Networks](#ternary-neural-networks)  
+	- [Binary Weight Networks](#binary-weight-metworks)  
+	- [Integer Based Networks](#intege-based-networksr)  
+	- [Others](#others)  
+- [General-Purpose Computing](#general-purpose-computing)  
+- [Research Groups](#research-groups)
+
+
 
 ## Survey Papers
+**Keywords**: **`IMC`**: In-Memory-Computing | **`NMC`**: Near-Memory-Computing 
 
 [[TCS_2021](https://ieeexplore.ieee.org/abstract/document/9382915)] [__`IMC, SRAM`__] Challenges and Trends of SRAM-Based Computing-In-Memory for AI Edge Devices
 
@@ -83,7 +88,7 @@ A collection of In-Memory-Computing papers targeting general-purpose computing a
   publisher={Elsevier}
 }</code></pre></details>
 
-[[DSD_2018](https://scholar.google.com/scholar?cluster=8305636141032236425&hl=zh-CN&as_sdt=0,5)] [__`NMC] A Review of Near-Memory Computing Architectures: Opportunities and Challenges
+[[DSD_2018](https://scholar.google.com/scholar?cluster=8305636141032236425&hl=zh-CN&as_sdt=0,5)] [__`NMC`__] A Review of Near-Memory Computing Architectures: Opportunities and Challenges
 
 <details><summary>Bibtex</summary><pre><code>@inproceedings{DSD_2018_NMC,
   title={A review of near-memory computing architectures: Opportunities and challenges},
@@ -102,6 +107,8 @@ A collection of In-Memory-Computing papers targeting general-purpose computing a
 
 
 ## Deep-Learning Acceleration
+
+**Networks**: **`BNN`**: Binary Neural Networks  | **`BTN`** : Binary-activation Ternary-weight Networks| **`TBN`** : Ternary-activation Binary-weight Networks| **`TNN`**: Ternary Neural Networks 
 
 ### Ternary Neural Networks
 
