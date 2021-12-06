@@ -5,10 +5,10 @@ A collection of In-Memory-Computing papers targeting general-purpose computing a
 ## Table of Contents
 
 - [Survey Papers](#survey-papers)  
-- [Deep Learning Acceleration](#deep-Learning-acceleration)  
+- [Deep Learning Acceleration](#deep-learning-acceleration)  
 	- [Ternary Neural Networks](#ternary-neural-networks)  
-	- [Binary Weight Networks](#binary-weight-metworks)  
-	- [Integer Based Networks](#intege-based-networksr)  
+	- [Binary Weight Networks](#binary-weight-networks)  
+	- [Integer Based Networks](#integer-based-networks)  
 	- [Others](#others)  
 - [General-Purpose Computing](#general-purpose-computing)  
 - [Research Groups](#research-groups)
